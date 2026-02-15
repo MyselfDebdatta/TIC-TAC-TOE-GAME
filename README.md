@@ -1,4 +1,4 @@
-##### 🎮 Tic-Tac-Toe Game
+# 🎮 Tic-Tac-Toe Game
 
 # LIVE WEBSITE: https://myselfdebdatta.github.io/TIC-TAC-TOE-GAME/
 
@@ -16,9 +16,9 @@ The game supports two players, automatic win detection, draw detection using mov
 
 # 🛠️ Tech Stack
 
-HTML5
-CSS3
-JavaScript (Vanilla JS)
+- HTML5
+- CSS3
+- JavaScript
 
 # 🧩 How It Works
 
@@ -29,7 +29,8 @@ JavaScript (Vanilla JS)
 - Reset button restarts the game instantly.
 
 # 📂 Project Structure
+
 /TIC-TAC-TOE GAME
-├── index.html
-├── style.css
-└── script.js
+ ├── index.html
+ ├── style.css
+ └── script.js
