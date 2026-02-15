@@ -1,18 +1,18 @@
-# 🎮 Tic-Tac-Toe Game
+# 🚀 TIC-TAC-TOE GAME   
 
-# LIVE WEBSITE: https://myselfdebdatta.github.io/TIC-TAC-TOE-GAME/
+#### 🔗 Live Website: https://myselfdebdatta.github.io/TIC-TAC-TOE-GAME/
 
 A simple and interactive Tic-Tac-Toe web game built using HTML, CSS, and JavaScript.
 The game supports two players, automatic win detection, draw detection using move counter logic, and game reset functionality.
 
 # 🚀 Features
 
-🔁 Two-player mode (X and O)
-🧠 Winner detection using win pattern logic
-🤝 Draw detection when all 9 moves are completed
-🔄 Reset & New Game functionality
-🎨 Clean and responsive UI
-🔒 Prevents clicking the same box twice
+-🔁 Two-player mode (X and O)
+-🧠 Winner detection using win pattern logic
+-🤝 Draw detection when all 9 moves are completed
+-🔄 Reset & New Game functionality
+-🎨 Clean and responsive UI
+-🔒 Prevents clicking the same box twice
 
 # 🛠️ Tech Stack
 
@@ -29,8 +29,8 @@ The game supports two players, automatic win detection, draw detection using mov
 - Reset button restarts the game instantly.
 
 # 📂 Project Structure
-
-/TIC-TAC-TOE GAME
+```
+TIC-TAC-TOE GAME/
  ├── index.html
  ├── style.css
  └── script.js
